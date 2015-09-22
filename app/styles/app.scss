@@ -1,0 +1,31 @@
+@import 'square-theme';
+@import 'ember-paper';
+@import 'index';
+
+.logo {
+  #front-page-logo {
+    vertical-align: bottom;
+  }
+
+  strong {
+    font-size: larger;
+  }
+}
+
+.privacy {
+  padding: 5%;
+}
+
+md-content {
+  flex: 1;
+  align-self: stretch;
+}
+
+
+  $color-secondary-0: #AF550B;  // Main Secondary color (1) */
+  $color-secondary-1: #E38E48;
+  $color-secondary-2: #D46F1C;
+  $color-secondary-3: #914200;
+  $color-secondary-4: #6B3100;
+
+

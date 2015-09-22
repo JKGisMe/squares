@@ -1,0 +1,9 @@
+.index{
+  display: block;
+
+  .big-square {
+    border-radius: 50%;
+    width: 80%;
+    background-color: color($primary);
+  }
+}
